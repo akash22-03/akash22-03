@@ -1,12 +1,6 @@
 
-<!---<a target="_blank" href="https://MadhabaPatra.github.io"><img  align="left" src="https://user-images.githubusercontent.com/42464927/95305388-c0297580-083a-11eb-902c-3c956fa394af.gif"></a>--->
-
-### Hi there 👋
+## Hi there 👋
 <!--
-**MadhabaPatra/MadhabaPatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,8 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
-![Akash Dash's Github Stats](https://github-readme-stats.vercel.app/api?username=akash22-03&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Akash Dash's Github Stats](https://github-readme-stats.vercel.app/api?username=akash22-03&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)-->
 
