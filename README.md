@@ -1,7 +1,7 @@
 
 # Hi there 👋
 <h1>I'm Akash Dash</h1>
-<h3>CS Undergrad'23 and Coordinator at Google DSC ITER</h3>
+<h3>CS Undergrad'23 && Coordinator at Google DSC ITER </h3>
 
 
 
