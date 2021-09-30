@@ -28,8 +28,8 @@
     <a><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"></a>
 </p>
 
-<!--![Akash Dash's Github Stats](https://github-readme-stats.vercel.app/api?username=akash22-03&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash22-03&show_icons=true&locale=en&layout=compact" alt="akash22-03" /></p>
+<!--![Akash Dash's Github Stats](https://github-readme-stats.vercel.app/api?username=akash22-03&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash22-03&show_icons=true&locale=en&layout=compact" alt="akash22-03" /></p>-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
