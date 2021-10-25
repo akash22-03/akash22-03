@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Cloud Computing in Microsoft Azure**
 - 🔭 I’m currently working on **MERN Stack Project**
 - 👯 I’m looking to collaborate on **Web Projects**
-- 👨‍💻 All of my projects are available at [github.com/akash22-03](https://github.com/akash22-03)
+<!-- 👨‍💻 All of my projects are available at [github.com/akash22-03](https://github.com/akash22-03)-->
 - 📫 How to reach me **akashdash2203@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
