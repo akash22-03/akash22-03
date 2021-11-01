@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Cloud Computing in Microsoft Azure**
 - 🔭 I’m currently working on **Tech Blog Webpage in JavaEE**
 - 👯 I’m looking to collaborate on **Web Projects**
-- - 📫 How to reach me **akashdash2203@gmail.com**
+- 📫 How to reach me **akashdash2203@gmail.com**
 <!-- 👨‍💻 All of my projects are available at [github.com/akash22-03](https://github.com/akash22-03)-->
 
 <h3 align="left">Languages and Tools:</h3>
