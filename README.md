@@ -8,8 +8,8 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash22-03&label=Profile%20views&color=0e75b6&style=flat" alt="Akash Dash" /> </p>-->
 
 <!--- 🌱 I’m currently learning **Cloud Computing in Microsoft Azure**-->
-- 🔭 I’m currently working on **Springboot REST API Devlopement**
-- 👯 I’m looking to collaborate on **Web Projects**
+- 🔭 I’m currently working on **Springboot REST API development**
+- 👯 I’m looking to collaborate on **REST API based projects**
 - 📫 How to reach me **akashdash2203@gmail.com**
 <!-- 👨‍💻 All of my projects are available at [github.com/akash22-03](https://github.com/akash22-03)-->
 
